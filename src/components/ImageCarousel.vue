@@ -73,6 +73,7 @@ function indexNumber(value='right') {
     height: 50px;
     border: 0;
     border-radius: 50%;
+    cursor: pointer;
 }
 .image_carousel {
     position: relative;
